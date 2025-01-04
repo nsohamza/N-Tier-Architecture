@@ -1,4 +1,5 @@
 # N-Tier-Architecture!
+LEARNING PURPOSES AND DOCUMENTATION!
 [alt text](https://i.gyazo.com/ee9cc96fa67f37fe03082e489d22b91c.png)
 
 Layers:
